@@ -1,0 +1,29 @@
+.Main_container {
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 1.3rem;
+  width: 65%;
+}
+
+.Main_add {
+  display: inline-block;
+  background-color: #1e87f0;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px 15px;
+  text-decoration: none;
+  border-radius: 0.4rem;
+}
+
+.Main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+.header-ul {
+  border-bottom: 1px solid #1e87f0;
+  text-decoration: none;
+  text-decoration-style: none;
+}

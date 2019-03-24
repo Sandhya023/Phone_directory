@@ -1,0 +1,65 @@
+.AddContact_container {
+    padding: 1rem;
+    margin: 1rem;
+    height: 100%;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    line-height: 1.5;
+  }
+  .form_link {
+    font-size: inherit;
+    text-decoration: none;
+    text-decoration-style: none;
+    color: #3c3c3c;
+    padding-bottom: 1rem;
+    margin-left: -39.8%;
+  }
+  .AddContact_form {
+    background-color: #ddd;
+    padding: 2rem;
+    width: 40%;
+  }
+  .AddContact_form label {
+    display: block;
+    font-size: 1.3rem;
+    color: #3c3c3c;
+    margin-bottom: 5px;
+  }
+  .AddContact_form input {
+    width: 30%;
+    padding: 5px;
+    font-size: inherit;
+  }
+  .form_control {
+    margin: 1rem 0;
+  }
+  .form_display {
+    margin: 1rem 0;
+  }
+  .form_add {
+    display: inline-block;
+    background-color: #1e87f0;
+    color: #fff;
+    cursor: pointer;
+    border: 0px;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-size: inherit;
+  }
+  
+  .form_error {
+    color: red;
+  }
+  
+  .header_ul {
+    text-decoration: none;
+    text-decoration-style: none;
+    border-bottom: 1px solid #1e87f0;
+  }
+
+  .form_input {
+    width: 80% !important;
+  }

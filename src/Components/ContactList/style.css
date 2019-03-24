@@ -1,0 +1,32 @@
+table {
+    margin: 2rem;
+    width: 100%;
+    color: #3c3c3c;
+  }
+  
+  tr,
+  td {
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+  }
+  td {
+    width: 33%;
+  }
+  
+  .Contacts_delete {
+    font-size: 1.1rem;
+    background-color: #f0506e;
+    color: #fff;
+    border: 0px;
+    border-radius: 0.4rem;
+    padding: 5px 15px;
+    cursor: pointer;
+  }
+
+  .header_ul {
+    text-decoration: none;
+    text-decoration-style: none;
+    border-bottom: 1px solid #1e87f0;
+  }
+  
